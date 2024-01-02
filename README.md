@@ -1,5 +1,7 @@
 # Pi-Hole + Unbound - 1 Container
 
+### This fork is not currently being maintained as I am not using Pi-hole, if/when this changes I will no doubt resume maintenance.
+
 ## Description
 
 This Docker deployment runs both Pi-Hole and Unbound in a single container.
